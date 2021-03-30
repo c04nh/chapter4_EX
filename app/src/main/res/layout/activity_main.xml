@@ -11,8 +11,8 @@
     <Button
         android:layout_width="300dp"
         android:layout_height="250dp"
-        android:backgroundTint="#ff0000"
         android:text="@string/btn_str"
+        android:backgroundTint="#ff0000"
         />
 
 </LinearLayout>
